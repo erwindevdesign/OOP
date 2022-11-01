@@ -4,12 +4,12 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Map;
 
-class uberBlack extends Car {
+class uberVan extends Car {
     Map<String, ArrayList<String,Integer>> typeCarAccepted;
     ArrayList<String> seatsMaterial;
 
 
-    public uberBlack(String license, Account driver, 
+    public uberVan(String license, Account driver, 
     Map<String, ArrayList<String,Integer>> typeCarAccepted,
     ArrayList<String> seatsMaterial ) {
         super(license, driver);

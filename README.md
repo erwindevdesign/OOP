@@ -379,4 +379,17 @@ Flujo de dopción de mascotas en "PET global adoption app"
 
 :: Todo lo que el individuo enajena de su poder adquisitivo, es solamente la parte cuyo uso tranciende para la comunidad, donde las institusiones soberanas y, el constructo social, son las responsables de dar este parametro(especulación de mercado).
 
+::una empresa que se toma en cuenta a sus clientes, es una empresa que utiliza la información para obtener una ventaja competitiva y alcanzar el crecimiento y la rentabilidad.
 
+
+
+1. Modelo o diagrama UML
+2. Objetos
+3. Abstracción
+4. Clases
+5. Modularidad
+6. Herencia
+7. objetos, metodo constructor 
+8. instanciando clases*
+9. declarar metodo
+10. 
