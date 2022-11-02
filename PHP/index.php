@@ -10,4 +10,6 @@ $uberX->printDataCar();
 
 $uberPool = new UberX("YTB656", new Account("Andy Floor", "RTH646"), "Chevrolet", "Neo");
 
+$uberPool->printDataCar();
+
 ?>
